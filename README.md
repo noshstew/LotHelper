@@ -6,3 +6,4 @@ Description: Parking lot management application that allows proprietors of parki
 Members:
 Nicholas Kuzoff (kuzoff@wisc.edu)
 Noah Stewart (njstewart2@wisc.edu)
+Derek Franz (dmfranz@wisc.edu)
